@@ -5,7 +5,7 @@ author: 'Hillary Hartley, directrice, Services numériques de l’Ontario'
 date: '2017-11-20 09:00:00 -0400'
 image: https://de2an9clyit2x.cloudfront.net/blog_in_this_together_2017_082de0960c.jpg
 image-alt: L’équipe des Services numériques de l’Ontario.
-translationKey: n-this-together
+translationKey: in-this-together
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_in_this_together_2017_082de0960c.jpg
 ---
 Il y a environ un mois, j’ai eu la chance de participer à la [conférence Connected150](http://www.connected150.ca) et de passer un peu de temps avec nos collègues du Service numérique canadien (SNC).
